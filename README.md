@@ -22,8 +22,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/guuhgst">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guuhgst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhgst&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavo Soares Thomann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo Soares Thomann&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
