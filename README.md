@@ -10,6 +10,8 @@
 
 ### English
 
+### Hello! My name is Gustavo Soares Thomann 👋
+
 - 🤷 I am currently unemployed.
 
 - 📚 Studying Web Fundamentals, Front-end, Back-end and Computer Science.
