@@ -1,6 +1,6 @@
 ### Portuguese
 
-### Olá! Eu me chamo Gustavo Soares Thomann 👋
+### Olá! Eu sou o Gustavo Soares 😀
    
 - 🤷 No momento estou desempregado.
 
@@ -12,7 +12,7 @@
 
 ### English
 
-### Hello! My name is Gustavo Soares Thomann 👋
+### Hello! I am Gustavo Soares 😀
 
 - 🤷 I am currently unemployed.
 
