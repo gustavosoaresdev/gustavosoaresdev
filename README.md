@@ -43,7 +43,7 @@
   <a href = "mailto:gustavosoaresthomann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <br>
    <br>  
- <img align="center" alt="gustavo-gif" height="160px" width="160px" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif">
+ <img align="right" alt="gustavo-gif" height="160px" width="160px" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif">
    <br>
    <br>
    
