@@ -10,7 +10,7 @@
 
 - 🤝 Estou a procura da primeira oportunidade na área de programação...
 
-### English
+### English 
 
 ### Hello! I am Gustavo Soares 😀
 
