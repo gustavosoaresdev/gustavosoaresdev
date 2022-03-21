@@ -45,6 +45,5 @@
    <br>  
  <img align="right" alt="gustavo-gif" height="160px" width="160px" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif">
    
-   
    ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
