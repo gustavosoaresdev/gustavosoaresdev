@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Gustavo Soares 😀
    
-- 🤷 No momento estou desempregado.
+- 🎓 Meu Inicio foi Cursando JAVA + POO na Udemy Prof Nelio Alves, depois fui para o Curso em Video JavaScript Prof Gustavo Guanabara na sequência            ProgramadorBR FullStack prof Igor Oliveira.
 
 - 📚 Estudando Fundamentos Web, Front-end, Back-end e Ciência da computação.
 
@@ -14,7 +14,7 @@
 
 ### Hello! I am Gustavo Soares 😀
 
-- 🤷 I am currently unemployed.
+- 🎓 My Start was Studying JAVA + POO at Udemy Prof Nelio Alves, then I went to the Video JavaScript Course Prof Gustavo Guanabara following                  ProgramadorBR FullStack Prof Igor Oliveira.
 
 - 📚 Studying Web Fundamentals, Front-end, Back-end and Computer Science.
 
