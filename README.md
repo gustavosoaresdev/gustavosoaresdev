@@ -1,6 +1,6 @@
 ### Portuguese
 
-### Olá! Eu sou o Gustavo Soares 😀
+### Olá! Eu sou o Gustavo 😀
    
 - 🎓 Meu Inicio foi Cursando JAVA + POO na Udemy Prof Nelio Alves, depois fui para o Curso em Video JavaScript Prof Gustavo Guanabara na sequência            ProgramadorBR FullStack prof Igor Oliveira.
 
