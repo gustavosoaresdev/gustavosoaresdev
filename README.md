@@ -12,7 +12,7 @@
 
 ### English
 
-### Hello! I am Gustavo 😀
+### Hii! I am Gustavo 😀
 
 - 🎓 My Start was Studying JAVA + POO at Udemy Prof Nelio Alves, then I went to the Video JavaScript Course Prof Gustavo Guanabara following                  ProgramadorBR FullStack Prof Igor Oliveira.
 
