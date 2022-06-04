@@ -1,6 +1,6 @@
 ### Portuguese
 
-### Olá! Eu sou o Gustavo 😀
+# Olá! Eu sou o Gustavo 😀
    
 - 🎓 Meu Inicio foi Cursando JAVA + POO na Udemy Prof Nelio Alves, depois fui para o Curso em Video JavaScript Prof Gustavo Guanabara na sequência            ProgramadorBR FullStack prof Igor Oliveira.
 
@@ -12,7 +12,7 @@
 
 ### English
 
-### Hii! I am Gustavo 😀
+# Hii! I am Gustavo 😀
 
 - 🎓 My Start was Studying JAVA + POO at Udemy Prof Nelio Alves, then I went to the Video JavaScript Course Prof Gustavo Guanabara following                  ProgramadorBR FullStack Prof Igor Oliveira.
 
