@@ -58,16 +58,16 @@
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100006005023941" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/__guuhgst/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-soares-thomann/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/5551984510471" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -78,3 +78,4 @@
 </div>
 
 ###
+Profile Readme Generator
