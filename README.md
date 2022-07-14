@@ -48,8 +48,6 @@
 
 ###
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 ###
 
 <h1 align="center">Contato</h1>
