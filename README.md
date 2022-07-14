@@ -1,53 +1,80 @@
-### Portuguese
+<h1 align="left">Olá, Eu sou Gustavo! 😃</h1>
 
-# Olá! Eu sou o Gustavo 😀
+###
 
-### Apaixonado por Front-End! ❤️
-   
-- 🎓 Meu Inicio foi Cursando JAVA + POO na Udemy Prof Nelio Alves, depois fui para o Curso em Video JavaScript Prof Gustavo Guanabara na sequência            ProgramadorBR FullStack prof Igor Oliveira.
+<h3 align="left">Apaixonado por Front-end ❤️</h3>
 
-- 📚 Estudando Fundamentos Web, Front-end.
+###
 
-- 🙏 Agradeço muito a DEUS por eu ter conhecido essa área! porque antes eu só perdia tempo com jogos on-line...
+<p align="left">• 🙏 Primeiramente agradeço a DEUS por eu ter conhecido a área de Programação! ❤️</p>
 
-- 🤝 Estou a procura da primeira oportunidade na área de programação...
+###
 
-### English
+<p align="left">• 🎓 Meu início foi cursando JAVA + POO na Udemy Prof Nelio alves, Depois eu decidi estudar<br>HTML, CSS & JavaScript com o Gustavo Guanabara (Curso em Video).</p>
 
-# Hii! I am Gustavo 😀
+###
 
-### In love with Front End! ❤️
+<p align="left">• 📚 No momento estou Cursando Desenvolvimento Front-end na Origamid.</p>
 
-- 🎓 My Start was Studying JAVA + POO at Udemy Prof Nelio Alves, then I went to the Video JavaScript Course Prof Gustavo Guanabara following                  ProgramadorBR FullStack Prof Igor Oliveira.
+###
 
-- 📚 Studying Web Fundamentals, Front-end.
+<p align="left">• 🤝 Estou a procura da minha primeira oportunidade na área de programação!</p>
 
-- 🙏 Thank GOD so much that I got to know this area! because before I was only wasting time with online games...
+###
 
-- 🤝 I'm looking for the first opportunity in the programming area...
-<br>
-<hr>
-<br>
+<h1 align="left"></h1>
+
+###
+
 <div align="center">
-  <a href="https://github.com/guuhgst">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guuhgst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhgst&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&username=guuhgst" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&theme=algolia&hide_border=true&custom_title=Ferramentas e Tecnologias&username=guuhgst" height="150" alt="languages graph"  />
 </div>
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="gustavo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gustavo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gustavo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<hr>
+
+###
+
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100006005023941" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guuhgst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-soares-5a1a1a222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavosoaresthomann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <br>
-   <br>
-   <img align="center" alt="gustavo-gif" height="180px" width="180px" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif">
-   
-   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="60" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="60" alt="git logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<img href="https://raw.githubusercontent.com/guuhgst/guuhgst/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="center">Contato</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100006005023941" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/__guuhgst/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-soares-thomann/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5551984510471" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif"  />
+</div>
+
+###
