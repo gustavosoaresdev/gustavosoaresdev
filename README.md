@@ -62,7 +62,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/guuhgst/guuhgst/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/guuhgst/guuhgst/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
