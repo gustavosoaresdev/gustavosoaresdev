@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤝 Meu nome é Gustavo Soares, tenho 19 anos de idade, sou do Rio Grande do Sul e<br>Eu sou estudante de Desenvolvimento Front-end.</p>
+<p align="left">😃 Meu nome é Gustavo Soares, tenho 19 anos de idade, sou do Rio Grande do Sul e<br>Eu sou estudante de Desenvolvimento Front-end.</p>
 
 ###
 
@@ -35,6 +35,10 @@
 ###
 
 <p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na <a href="https://www.origamid.com/" target="_blank">Origamid</a> Prof André Rafael,<br>Tenho 10 mesês de curso.</p>
+
+###
+
+<p>🤝 Estou a procura da minha primeira oportunidade na área de programação!</p>
 
 ###
 
