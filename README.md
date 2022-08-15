@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Desenvolvedor Front-end 🖥️</h2>
+<h2 align="left">Estudante de Desenvolvimento Front-end 🖥️</h2>
 
 ###
 
