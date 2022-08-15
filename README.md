@@ -61,12 +61,8 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/guuhgst/guuhgst/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<div align="center">
+  
+  <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100006005023941" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
@@ -84,7 +80,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/XdhxKwFxwyJxeme1DO/giphy.gif"  />
 </div>
-
-###
+  
+![Snake animation](https://github.com/guuhgst/guuhgst/blob/output/github-contribution-grid-snake.svg)
