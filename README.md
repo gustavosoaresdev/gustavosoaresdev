@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤝 Meu nome é Gustavo Soares, tenho 19 anos de idade,<br>                            sou do Rio Grande do Sul e eu sou estudante de<br>                            Desenvolvimento Front-end.</p>
+<p align="left">🤝 Meu nome é Gustavo Soares, tenho 19 anos de idade, sou do Rio Grande do Sul e<br>Eu sou estudante de Desenvolvimento Front-end.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Há mais de um ano atrás, eu e meu irmão <a href="https://www.linkedin.com/in/marciosoaresthomann/" target="_blank">Marcio</a><br>conhecemos a área de programação atráves de um amigo de<br>jogo dele, <a href="https://www.linkedin.com/in/leonardo-costa-vieira-2377832b/" target="_blank">Leonardo Costa</a>.</p>
+<p align="left">🧑‍💻 Há mais de um ano atrás, eu e meu irmão <a href="https://www.linkedin.com/in/marciosoaresthomann/" target="_blank">Marcio</a> conhecemos a área de programação<br>atráves de um amigo de jogo dele, <a href="https://www.linkedin.com/in/leonardo-costa-vieira-2377832b/" target="_blank">Leonardo Costa</a>.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos)<br>na <a href="https://www.udemy.com/user/nelio-alves/" target="_blank">Udemy</a> Prof Nelio Alves, Cursei por 4 mesês e algumas semanas.</p>
+<p align="left">🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos) na <a href="https://www.udemy.com/user/nelio-alves/" target="_blank">Udemy</a><br>Prof Nelio Alves, cursei por 4 mesês e algumas semanas.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na <a href="https://www.origamid.com/" target="_blank">Origamid</a><br>Prof André Rafael.</p>
+<p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na <a href="https://www.origamid.com/" target="_blank">Origamid</a> Prof André Rafael,<br>Tenho 10 mesês de curso.</p>
 
 ###
 
