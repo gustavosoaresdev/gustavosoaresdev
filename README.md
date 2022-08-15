@@ -6,35 +6,35 @@
 
 ###
 
-<h3 align="left">- Quem sou❓</h3>
+<h3 align="left">Quem sou❓</h3>
 
 ###
 
-<p align="left">• 🤝 Meu nome é Gustavo Soares, tenho 19 anos de idade,<br>                            sou do Rio Grande do Sul e eu sou estudante de<br>                            Desenvolvimento Front-end.</p>
+<p align="left">🤝 Meu nome é Gustavo Soares, tenho 19 anos de idade,<br>                            sou do Rio Grande do Sul e eu sou estudante de<br>                            Desenvolvimento Front-end.</p>
 
 ###
 
-<h3 align="left">- Como eu conheci a área de programação❓</h3>
+<h3 align="left">Como eu conheci a área de programação❓</h3>
 
 ###
 
-<p align="left">• 🧑‍💻 Há mais de um ano atrás, eu e meu irmão Marcio<br>conhecemos a área de programação atráves de um amigo de<br>jogo dele, Leonardo Costa.</p>
+<p align="left">🧑‍💻 Há mais de um ano atrás, eu e meu irmão <a href="https://www.linkedin.com/in/marciosoaresthomann/" target="_blank">Marcio</a><br>conhecemos a área de programação atráves de um amigo de<br>jogo dele, <a href="https://www.linkedin.com/in/leonardo-costa-vieira-2377832b/" target="_blank">Leonardo Costa</a>.</p>
 
 ###
 
-<h3 align="left">- Por onde eu comecei❓</h3>
+<h3 align="left">Por onde eu comecei❓</h3>
 
 ###
 
-<p align="left">• 🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos)<br>na Udemy Prof Nelio Alves, Cursei por 4 mesês e algumas semanas.</p>
+<p align="left">🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos)<br>na <a href="https://www.udemy.com/user/nelio-alves/" target="_blank">Udemy</a> Prof Nelio Alves, Cursei por 4 mesês e algumas semanas.</p>
 
 ###
 
-<h3 align="left">- O que eu estudo atualmente❓</h3>
+<h3 align="left">O que eu estudo atualmente❓</h3>
 
 ###
 
-<p align="left">• 📚 Atualmente estou cursando Desenvolvimento Front-end na Origamid<br>Prof André Rafael.</p>
+<p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na <a href="https://www.origamid.com/" target="_blank">Origamid</a><br>Prof André Rafael.</p>
 
 ###
 
