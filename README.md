@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😃 Meu nome é Gustavo Soares, tenho 19 anos de idade, sou do Rio Grande do Sul e<br>Eu sou estudante de Desenvolvimento Front-end.</p>
+<p align="left">😃 Meu nome é Gustavo Soares, tenho 19 anos de idade, sou do Rio Grande do Sul e<br>Sou estudante de Desenvolvimento Front-end.</p>
 
 ###
 
