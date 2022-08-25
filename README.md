@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">𝗤𝘂𝗲𝗺 𝘀𝗼𝘂❓</h3>
+<h3 align="left">Quem sou❓</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">𝗖𝗼𝗺𝗼 𝗲𝘂 𝗰𝗼𝗻𝗵𝗲𝗰𝗶 𝗮 𝗮́𝗿𝗲𝗮 𝗱𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼❓</h3>
+<h3 align="left">Como eu conheci a área de programação❓</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">𝗣𝗼𝗿 𝗼𝗻𝗱𝗲 𝗲𝘂 𝗰𝗼𝗺𝗲𝗰𝗲𝗶❓</h3>
+<h3 align="left">Por onde eu comecei❓</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">𝗢 𝗾𝘂𝗲 𝗲𝘂 𝗲𝘀𝘁𝘂𝗱𝗼 𝗮𝘁𝘂𝗮𝗹𝗺𝗲𝗻𝘁𝗲❓</h3>
+<h3 align="left">O que eu estudo atualmente❓</h3>
 
 ###
 
