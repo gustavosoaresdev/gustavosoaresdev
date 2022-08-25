@@ -1,12 +1,12 @@
-<h1 align="left">Olá, eu sou Gustavo! 👋</h1>
+<h1 align="left">𝗢𝗹𝗮́, 𝗲𝘂 𝘀𝗼𝘂 𝗚𝘂𝘀𝘁𝗮𝘃𝗼 👋</h1>
 
 ###
 
-<h2 align="left">Estudante de Desenvolvimento Front-end 🖥️</h2>
+<h2 align="left">Front-end Developer 🖥️</h2>
 
 ###
 
-<h3 align="left">Quem sou❓</h3>
+<h3 align="left">𝗤𝘂𝗲𝗺 𝘀𝗼𝘂❓</h3>
 
 ###
 
@@ -14,31 +14,33 @@
 
 ###
 
-<h3 align="left">Como eu conheci a área de programação❓</h3>
+<h3 align="left">𝗖𝗼𝗺𝗼 𝗲𝘂 𝗰𝗼𝗻𝗵𝗲𝗰𝗶 𝗮 𝗮́𝗿𝗲𝗮 𝗱𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼❓</h3>
 
 ###
 
-<p align="left">🧑‍💻 Há mais de um ano atrás, eu e meu irmão <a href="https://www.linkedin.com/in/marciosoaresthomann/" target="_blank">Marcio</a> conhecemos a área de programação<br>atráves de um amigo de jogo dele, <a href="https://www.linkedin.com/in/leonardo-costa-vieira-2377832b/" target="_blank">Leonardo Costa</a>.</p>
+<p align="left">🧑‍ Há mais de um ano atrás, eu e meu irmão Marcio conhecemos a área de programação<br>atráves de um amigo de jogo dele, Leonardo Costa.</p>
 
 ###
 
-<h3 align="left">Por onde eu comecei❓</h3>
+<h3 align="left">𝗣𝗼𝗿 𝗼𝗻𝗱𝗲 𝗲𝘂 𝗰𝗼𝗺𝗲𝗰𝗲𝗶❓</h3>
 
 ###
 
-<p align="left">🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos) na <a href="https://www.udemy.com/user/nelio-alves/" target="_blank">Udemy</a><br>Prof Nelio Alves, cursei por 4 mesês e algumas semanas.</p>
+<p align="left">🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos) na Udemy<br>Prof Nelio Alves, cursei por 4 mesês e algumas semanas.</p>
 
 ###
 
-<h3 align="left">O que eu estudo atualmente❓</h3>
+<h3 align="left">𝗢 𝗾𝘂𝗲 𝗲𝘂 𝗲𝘀𝘁𝘂𝗱𝗼 𝗮𝘁𝘂𝗮𝗹𝗺𝗲𝗻𝘁𝗲❓</h3>
 
 ###
 
-<p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na <a href="https://www.origamid.com/" target="_blank">Origamid</a> Prof André Rafael,<br>Tenho 10 mesês de curso.</p>
+<p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na Origamid Prof André Rafael,<br>Tenho 10 mesês de curso.</p>
 
 ###
 
-<p>🤝 Estou a procura da minha primeira oportunidade na área de programação!</p>
+<p align="left">🤝 Estou a procura da minha primeira oportunidade na área de programação!</p>
+
+###
 
 ###
 
