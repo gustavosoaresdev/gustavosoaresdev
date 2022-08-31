@@ -84,4 +84,4 @@
  
 ###
   
-![Snake animation](https://github.com/guuhgst/guuhgst/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavosoaresdev/gustavosoaresdev/blob/output/github-contribution-grid-snake.svg)
