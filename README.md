@@ -50,8 +50,8 @@
 
 <div align="left">
   <a href="https://github.com/guuhgst">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=gustavosoaresdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosoaresdev&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=gustavosoaresdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosoaresdev&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
   
 ###
