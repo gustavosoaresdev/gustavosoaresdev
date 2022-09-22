@@ -1,5 +1,5 @@
 <h2 align="left">
-  Olá, tudo bem? eu sou Gustavo! 👋 <br>
+  Olá, eu sou Gustavo! 👋 <br>
   Estudante de Desenvolvimento Front-end ​🧑‍
 </h2>
 
