@@ -1,8 +1,7 @@
-<h1 align="left">Olá, tudo bem? eu sou Gustavo! 👋</h1>
-
-###
-
-<h2 align="left">Estudante de Desenvolvimento Front-end ​🧑‍💻</h2>
+<h2 align="left">
+  Olá, tudo bem? eu sou Gustavo! 👋 <br>
+  Estudante de Desenvolvimento Front-end ​🧑‍
+</h2>
 
 ###
 
