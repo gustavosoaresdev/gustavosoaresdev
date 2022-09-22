@@ -1,46 +1,24 @@
-<h1 align="left">Olá, eu sou Gustavo 👋</h1>
+<h1 align="left">Olá, tudo bem? eu sou Gustavo! 👋</h1>
 
 ###
 
-<h2 align="left">Front-end Developer 🖥️</h2>
+<h2 align="left">Estudante de Desenvolvimento Front-end ​🧑‍💻</h2>
 
 ###
 
-<h3 align="left">Quem sou❓</h3>
+<h4 align="left">Minhas principais habilidades são;<br>HTML5 , CSS3 , JavaScript ES6+ , Sass , Linux , Git e GitHub básico.</h4>
 
 ###
 
-<p align="left">😃 Meu nome é Gustavo Soares, tenho 20 anos, sou do Rio Grande do Sul e<br>Sou estudante de Desenvolvimento Front-end.</p>
+<h4 align="left">Sempre gostei de Design's, texturas e coisas do tipo, é por esse motivo<br>que eu comecei a estudar Desenvolvimento Front-end há mais de um ano atrás.<br>Procuro sempre solucionar o máximo de problemas ou melhorar algum processo<br>para o usuário, mas sempre deixando um design bonito e agradável. ✅</h4>
 
 ###
 
-<h3 align="left">Como eu conheci a área de programação❓</h3>
+<h4 align="left">Estou a procura da minha primeira oportunidade como Desenvolvedor<br>Front-end! Tenho bastante interesse e curiosidade de entrar em uma<br>equipe de trabalho e saber como que é trabalhar juntos.</h4>
 
 ###
 
-<p align="left">🧑‍ Há mais de um ano atrás, eu e meu irmão Marcio conhecemos a área de programação<br>atráves de um amigo de jogo dele, Leonardo Costa.</p>
-
-###
-
-<h3 align="left">Por onde eu comecei❓</h3>
-
-###
-
-<p align="left">🎓 Meu início foi cursando Java + POO (Programação Orientada a Objetos) na Udemy<br>Prof Nelio Alves, cursei por 4 mesês e algumas semanas.</p>
-
-###
-
-<h3 align="left">O que eu estudo atualmente❓</h3>
-
-###
-
-<p align="left">📚 Atualmente estou cursando Desenvolvimento Front-end na Origamid Prof André Rafael,<br>Tenho 10 mesês de curso.</p>
-
-###
-
-<p align="left">🤝 Estou a procura da minha primeira oportunidade na área de programação!</p>
-
-###
+<h4 align="left">Bom, foi um prazer! espero seu retorno!! 🤝</h4>
 
 ###
 
