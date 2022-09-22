@@ -1,6 +1,6 @@
 <h2 align="left">
   Olá, eu sou Gustavo! 👋 <br>
-  Estudante de Desenvolvimento Front-end ​🧑‍
+  Estudante de Desenvolvimento Front-end 🧑‍💻
 </h2>
 
 ###
