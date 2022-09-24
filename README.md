@@ -1,20 +1,31 @@
 <h2 align="left">
-  Olá, seja bem vindo(a) ao meu GitHub! <br>
-  Me chamo Gustavo Soares Thomann, tenho 20 anos e sou <br>
+  Olá, eu sou Gustavo! 👋 <br>
   Estudante de Desenvolvimento Front-end 🧑‍💻
 </h2>
 
 ###
 
-<h4 align="left">Minhas principais habilidades são;<br>HTML5 , CSS3 , JavaScript ES6+ , Sass , Linux , Git e GitHub básico.</h4>
+<h4 align="left">
+  Minhas principais habilidades são; <br>
+  HTML5 , CSS3 , JavaScript ES6+ , Sass , Linux , Git e GitHub básico.
+</h4>
 
 ###
 
-<h4 align="left">Sempre gostei de Design's, texturas e coisas do tipo, é por esse motivo<br>que eu comecei a estudar Desenvolvimento Front-end há mais de um ano atrás.<br>Procuro sempre solucionar o máximo de problemas ou melhorar algum processo<br>para o usuário, mas sempre deixando um design bonito e agradável. ✅</h4>
+<h4 align="left">
+  Sempre gostei de Design's, texturas e coisas do tipo, é por esse motivo <br>
+  que eu comecei a estudar Desenvolvimento Front-end há mais de um ano atrás. <br>
+  Procuro sempre solucionar o máximo de problemas ou melhorar algum processo <br>
+  para o usuário, mas sempre deixando um design bonito e agradável. ✅
+</h4>
 
 ###
 
-<h4 align="left">Estou a procura da minha primeira oportunidade como Desenvolvedor<br>Front-end! Tenho bastante interesse e curiosidade de entrar em uma<br>equipe de trabalho e saber como que é trabalhar juntos.</h4>
+<h4 align="left">
+  Estou a procura da minha primeira oportunidade como Desenvolvedor Front-end! <br>
+  Tenho bastante interesse e curiosidade de entrar em uma equipe de trabalho <br>
+  e saber como que é trabalhar juntos.
+</h4>
 
 ###
 
