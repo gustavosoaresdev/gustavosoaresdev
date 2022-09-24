@@ -1,5 +1,6 @@
 <h2 align="left">
-  Olá, eu sou Gustavo! 👋 <br>
+  Olá, seja bem vindo(a) ao meu GitHub! <br>
+  Me chamo Gustavo Soares Thomann, tenho 20 anos e sou <br>
   Estudante de Desenvolvimento Front-end 🧑‍💻
 </h2>
 
