@@ -1,5 +1,5 @@
 <h2 align="left">
-  Olá, eu sou Gustavo! 👋 <br>
+  Olá, eu sou [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Gustavo+Soares)] <br>
   Estudante de Desenvolvimento Front-end 🧑‍💻
 </h2>
 
