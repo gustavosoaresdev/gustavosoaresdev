@@ -1,40 +1,41 @@
-<h2 align="left">
-  Olá, eu sou Gustavo 👋 <br>
-  Estudante de Desenvolvimento Front-end 🧑‍💻
-</h2>
+<h1>Olá, eu sou Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+
+* 🖥️ Desenvolvedor Front-end!
+* 👩🏻‍💻 Estudando Desenvolvimento Web há mais de um ano.
+* 🎓 Meu início foi cursando Java + Poo na Udemy, Prof Nélio Alves. <br>
+     Cursei por 4 mêses e algumas semanas.
 
 ###
 
-<h4 align="left">
-  Minhas principais habilidades são; <br>
-  HTML5 , CSS3 , JavaScript ES6+ , Sass , Linux , Git e GitHub básico.
-</h4>
+<h2 align="left">Minhas principais habilidades são;</h2>
+
+* 📄 HTML5
+* 💅 CSS3
+* 👨‍💻 JavaScript ES6+
+* 🦩 Sass
+* 🐧 Linux **básico**
+* 🔴 Git **básico**
+* 🐈 GitHub **básico**
 
 ###
 
-<h4 align="left">
+<h2 align="left">Um pouco sobre mim</h2>
+
+<p align="left">
   Sempre gostei de Design's, texturas, coisas do tipo... <br>
   é por esse motivo que eu comecei a estudar Desenvolvimento Front-end <br>
   há mais de um ano atrás. Procuro sempre solucionar o máximo de problemas <br>
   ou melhorar algum processo para o usuário, mas sempre deixando <br>
   um design bonito e agradável. ✅
-</h4>
+</p>
 
 ###
 
-<h4 align="left">
-  Estou a procura da minha primeira oportunidade como Desenvolvedor Front-end! <br>
+<p align="left">
+  🤝 Estou a procura da minha primeira oportunidade como Desenvolvedor Web! <br>
   Tenho bastante interesse e curiosidade de entrar em uma equipe de trabalho <br>
   e saber como que é trabalhar juntos.
-</h4>
-
-###
-
-<h4 align="left">Bom, foi um prazer! espero seu retorno!! 🤝</h4>
-
-###
-
-<h1 align="left"></h1>
+</p>
 
 ###
 
