@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h1>Olá, eu sou Gustavo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 * 🖥️ Desenvolvedor Front-end!
 * 👩🏻‍💻 Estudando Desenvolvimento Web há mais de um ano.
