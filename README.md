@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Um pouco sobre mim</h2>
+<h2 align="left">Um pouco sobre mim 👀</h2>
 
 <p align="left">
   Sempre gostei de Design's, texturas, coisas do tipo... <br>
