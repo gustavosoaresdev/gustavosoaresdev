@@ -25,18 +25,6 @@
 
 ###
 
-<h2 align="left">Minhas principais habilidades são;</h2>
-
-* 📄 HTML5
-* 💅 CSS3
-* 👨‍💻 JavaScript ES6+
-* 🦩 Sass
-* 🐧 Linux **básico**
-* 🔴 Git **básico**
-* 🐈 GitHub **básico**
-
-###
-
 <div align="left">
   <a href="https://github.com/guuhgst">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=gustavosoaresdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
