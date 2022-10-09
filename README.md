@@ -7,18 +7,6 @@
 
 ###
 
-<h2 align="left">Minhas principais habilidades são;</h2>
-
-* 📄 HTML5
-* 💅 CSS3
-* 👨‍💻 JavaScript ES6+
-* 🦩 Sass
-* 🐧 Linux **básico**
-* 🔴 Git **básico**
-* 🐈 GitHub **básico**
-
-###
-
 <p align="left">
   Sempre gostei de Design's, texturas, coisas do tipo... <br>
   é por esse motivo que eu comecei a estudar Desenvolvimento Front-end <br>
@@ -34,6 +22,18 @@
   Tenho bastante interesse e curiosidade de entrar em uma equipe de trabalho <br>
   e saber como que é trabalhar juntos.
 </p>
+
+###
+
+<h2 align="left">Minhas principais habilidades são;</h2>
+
+* 📄 HTML5
+* 💅 CSS3
+* 👨‍💻 JavaScript ES6+
+* 🦩 Sass
+* 🐧 Linux **básico**
+* 🔴 Git **básico**
+* 🐈 GitHub **básico**
 
 ###
 
