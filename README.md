@@ -19,8 +19,6 @@
 
 ###
 
-<h2 align="left">Um pouco sobre mim 👇</h2>
-
 <p align="left">
   Sempre gostei de Design's, texturas, coisas do tipo... <br>
   é por esse motivo que eu comecei a estudar Desenvolvimento Front-end <br>
