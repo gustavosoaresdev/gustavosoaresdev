@@ -18,7 +18,7 @@
 ###
 
 <p align="left">
-  Estou a procura da minha primeira oportunidade como Desenvolvedor Web! 🤝<br>
+  Estou a procura da minha primeira oportunidade como Desenvolvedor! 🤝<br>
   Tenho bastante interesse e curiosidade de entrar em uma equipe de trabalho <br>
   e saber como que é trabalhar juntos.
 </p>
