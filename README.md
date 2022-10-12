@@ -5,7 +5,8 @@
 * 🎓 Meu início foi cursando Java + Poo na Udemy, Prof Nélio Alves. <br>
      Cursei por 4 mêses e algumas semanas.
 * 📚 Atualmente estou cursando Desenvolvimento Front-end na <br>
-  Origamid, Prof André Rafael.
+  Origamid, Prof André Rafael. Tenho um ano e alguns mesês <br>
+  de curso.
 
 ###
 
