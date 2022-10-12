@@ -4,8 +4,8 @@
 * 👩🏻‍💻 Estudando Desenvolvimento Web há mais de um ano
 * 🎓 Meu início foi cursando Java + Poo na Udemy, Prof Nélio Alves. <br>
      Cursei por 4 mêses e algumas semanas.
-* Atualmente estou cursando Desenvolvimento Front-end na Origamid,<br>
-  Prof André Rafael.
+* Atualmente estou cursando Desenvolvimento Front-end na <br
+  Origamid, Prof André Rafael.
 
 ###
 
