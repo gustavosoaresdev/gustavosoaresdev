@@ -12,8 +12,8 @@
 
 <p align="left">
   Sempre gostei de Design's, texturas, coisas do tipo... <br>
-  é por esse motivo que eu comecei a estudar desenvolvimento front-end <br>
-  há mais de um ano atrás. Procuro sempre solucionar o máximo de problemas <br>
+  é por esse motivo que eu comecei a estudar desenvolvimento front-end há <br>
+  mais de um ano atrás. Procuro sempre solucionar o máximo de problemas <br>
   ou melhorar algum processo para o usuário, mas sempre deixando <br>
   um design bonito e agradável. ✅
 </p>
