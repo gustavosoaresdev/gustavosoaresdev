@@ -1,4 +1,4 @@
-<h1>Olá, senhores(a)! 🍷🗿 eu sou Gustavo! 🤝</h1>
+<h1>Olá, senhores(a)! 🗿🍷 eu sou Gustavo! 🤝</h1>
 
 * 🖥️ Desenvolvedor Front-end
 * 👩🏻‍💻 Estudando desenvolvimento web há mais de um ano
